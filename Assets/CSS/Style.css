@@ -28,4 +28,12 @@ ul{
     padding-left: 6px;
     display: inline;
 }
-
+.names{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+#id{
+    width: 40px;
+}
